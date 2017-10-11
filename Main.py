@@ -1,9 +1,7 @@
 #!/usr/bin/python3
 
 def main(msg):
-	 // Adding a different comment
-	// Prints a message
-    // Adding a third message
+	 // Comments no longer needed here
     print(msg)
 
 main("Hello People")
